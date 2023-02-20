@@ -7,8 +7,6 @@
 
 import UIKit
 
-import UIKit
-
 final class ItemListView: UIView {
     
     private lazy var tableView: UITableView = {
